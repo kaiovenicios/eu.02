@@ -1,0 +1,58 @@
+O git add. 
+Move as alterações do diretório de trabalho para a área de staging. ...
+Git Branch. Esse comando é a ferramenta de administração de ramificações de uso geral. 
+
+Git Branch:
+ Esse comando é a ferramenta de administração de ramificações de uso geral. Permite criar ambientes de desenvolvimento isolados em um único repositório.
+
+Git Clean:
+Remove os arquivos não monitorados do diretório de trabalho. Esse é o correspondente lógico do git reset, que (em geral) só opera em arquivos monitorados.
+
+git clone:
+Cria cópia de um Repositório do Git existente. A clonagem é o modo mais comum dos desenvolvedores obterem uma cópia de trabalho de um repositório central.
+
+git config:
+Uma maneira conveniente de definir opções de configuração para a instalação do Git. Em geral, sua utilização só é necessária de modo imediato após a instalação do Git em máquina de desenvolvimento nova.
+
+git init:
+Inicializa novo repositório do Git. Se você quiser colocar um projeto sob controle de revisão, este é o primeiro comando que você precisa aprender. 
+
+
+git remote:
+Uma ferramenta prática para administrar conexões remotas. Em vez de passar o URL completo para os comandos fetch, pull e push, ele permite usar um atalho mais significativo
+
+
+git status:
+Exibe o estado do diretório de trabalho e o instantâneo preparado. Utilize essa opção em conjunto com os comandos git add e o git commit para ver com precisão o que
+ vai ser incluído no próximo instantâneo.
+
+
+
+git config:
+--global: Esta opção é usada para definir a configuração em nível global, ou seja, as configurações serão aplicadas a todos os repositórios do usuário no sistema. Se você omitir essa opção, a configuração será específica do repositório em que você está no momento.
+git push:
+O comando git push é usado para gravar em um repositório remoto. Este exemplo vai carregar o estado local de ＜branch-name＞ no repositório remoto especificado por ＜remote-name＞ .
+
+
+Git Push Origin :
+Git Push Origin Master is a fundamental command used in the field of software development and version control systems.]
+
+
+git user.name:
+O Git usa um nome de usuário para associar os commits a uma identidade. O nome de usuário do Git é diferente do nome de usuário do GitHub
+
+
+git commit -m:
+O comando git commit -m é usado para criar um novo commit no seu repositório Git, junto com uma mensagem de commit curta  descritiva fornecida como argumento.
+
+
+git branch -m:
+O comando git branch -m é utilizado para renomear uma branch no Git. A opção -m é uma abreviação de "move", e é usada para mover ou renomear uma branch para um novo nome especificado.
+
+
+git remote add origin:
+O comando git remote add origin é utilizado para adicionar um repositório remoto ao seu repositório Git local. O termo "origin" é um nome comumente usado para se referir ao repositório remoto principal de onde você clonou ou planeja enviar suas alterações.
+
+it push -u origin main:
+O comando git push -u origin main serve para enviar (ou "pushar") as alterações do seu repositório local para o repositório remoto chamado "origin", na branch principal (normalmente chamada de "main").
+
